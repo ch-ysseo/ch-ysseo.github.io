@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ch-ysseo.github.ioblank/sitemap.xml
+Sitemap: https://ch-ysseo.github.io/blank/sitemap.xml
